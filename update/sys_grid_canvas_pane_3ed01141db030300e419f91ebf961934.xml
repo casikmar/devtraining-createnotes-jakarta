@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">2ad05901db030300e419f91ebf9619b2</grid_canvas>
+        <height>4</height>
+        <portal_widget display_value="">f6d01141db030300e419f91ebf961913</portal_widget>
+        <posx>8</posx>
+        <posy>32</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-13 13:49:24</sys_created_on>
+        <sys_id>3ed01141db030300e419f91ebf961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2ad05901db030300e419f91ebf9619b2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_3ed01141db030300e419f91ebf961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-13 13:49:24</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>
